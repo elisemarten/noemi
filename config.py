@@ -1,0 +1,5 @@
+SECRET_KEY = "demo-secret-key"
+
+ALGORITHM = "HS256"
+
+TOKEN_EXPIRE = 3600
